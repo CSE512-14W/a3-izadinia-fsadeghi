@@ -22,7 +22,7 @@ Using this link you will open index.html file and run the visualization. We use 
 2) Object: chair, table, ...
 3) Attribute: indoor, outdoor, natural, ...
 
-The links between variables show the concurrence of those variables in the image set. Since there are many variables in the graph, you can search for specific string in the search box on top of the page. The variables with similar pattern will get highlighted and then by moving mouse over the variable of interest, the link of that variable with other variables get highlighted. Then by clicking on the text of that variable a popup will open and show the thumbnail of a sample image for each category. 
+The links between variables show the co-occurrence of those variables in the image set. Since there are many variables in the graph, you can search for specific string in the search box on top of the page. The variables with similar pattern will get highlighted and then by moving mouse over the variable of interest, the link of that variable with other variables get highlighted. Then by clicking on the text of that variable a popup will open and show the thumbnail of a sample image for each category. 
 
 
 ## Story Board
