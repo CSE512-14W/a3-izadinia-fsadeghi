@@ -55,7 +55,7 @@ Also, for improving the expressiveness of our visualization, we embedded the thu
 
 The screenshot of the final implementation is shown below.
 
-![final screenshot](plant_screenshot.png "final screenshot")
+![final screenshot](screenshot.png "final screenshot")
 
 
 ## Development Process
