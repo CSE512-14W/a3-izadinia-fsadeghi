@@ -29,6 +29,7 @@ The link between each variable show the concurrence of those variables in the im
 
 The storyboard of the project can be opened by [link to the storyboard pdf file](storyboard.pdf?raw=true).
 
+![inital storyboard](parallel.png "Inital storyboard")
 
 ### Changes between Storyboard and the Final Implementation
 
