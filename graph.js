@@ -37,7 +37,7 @@ function init()
 
   svg.call(tip);
 
- d3.json("mysunjson_pruned4high_thresh_clusty_.json", function(error, classes) {
+ d3.json("mysunjson_pruned4highthresh_clusty_8.json", function(error, classes) {
   // d3.json("readme-flare-imports.json", function(error, classes) {
     var nodes = cluster.nodes(packageHierarchy(classes)),
         links = packageImports(nodes);
