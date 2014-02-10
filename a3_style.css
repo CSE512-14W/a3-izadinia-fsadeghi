@@ -51,7 +51,7 @@
   line-height: 0;
   font-weight: bold;
   padding: 6px;
-  background: rgba(197, 176, 213, 0.8);
+  background: rgba(197, 176, 213, 0.9);
   /*color: #fff;*/
   color: black;
   border-radius: 2px;
@@ -79,21 +79,22 @@
 
 input {
 font: 24pt "helvetica neue";
-background: #999;
+background: #bbb;
 border: #222;
 outline: 1;
 }
 
 h1 {
   font: 300 14px "Helvetica Neue";
-  font-size: 32px;
-  font-weight: 300;
+  font-size: 28px;
+  font-weight: 100;
   margin: .3em 0 .1em 0;
 }
 
 p {
   font: 24pt "helvetica neue";
   font-size: 24px;
+  font-weight: 200;
   margin: .3em 0 .1em 0;
   color: #666;
 }
