@@ -3,9 +3,9 @@ var m0;
 
 function init()
 {
-  var diameter = 900,
+  var diameter = 700,
       radius = diameter / 2,
-      innerRadius = radius - 120;
+      innerRadius = radius - 130;
 
   var cluster = d3.layout.cluster()
       .size([360, innerRadius])
@@ -32,7 +32,7 @@ function init()
   .attr('class', 'd3-tip')
   .offset([-20, 0])
   .html(function(d) {
-    return "<p><strong></strong> <span style='color:red'>" + d.key + "</span></p><p><img src='thumbnails/" + d.key + ".jpg' height='100' border='5'></p>";
+    return "<p><span style='color:black'>" + d.key + "</span></p><p><img src='thumbnails/" + d.key + ".jpg' height='100' border='5'></p>";
   })
 
   svg.call(tip);

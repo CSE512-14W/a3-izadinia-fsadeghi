@@ -12,8 +12,8 @@
 }
 
 .link {
-  stroke: steelblue;
-  stroke-opacity: .4;
+  stroke: rgba(23, 190, 207, 1);
+  stroke-opacity: .05;
   fill: none;
   pointer-events: none;
 }
@@ -25,11 +25,11 @@
 }
 
 .node--source {
-  fill: #d62728;
+  fill: magenta;
 }
 
 .node--target {
-  fill: #d62728;
+  fill: magenta;
 }
 
 .link--source,
@@ -39,20 +39,21 @@
 }
 
 .link--source {
-  stroke: #d62728;
+  stroke: magenta;
 }
 
 .link--target {
-  stroke: #d62728;
+  stroke: magenta;
 }
 
 
 .d3-tip {
-  line-height: 1;
+  line-height: 0;
   font-weight: bold;
-  padding: 12px;
-  background: rgba(0, 0, 0, 0.8);
-  color: #fff;
+  padding: 6px;
+  background: rgba(197, 176, 213, 0.8);
+  /*color: #fff;*/
+  color: black;
   border-radius: 2px;
 }
 
