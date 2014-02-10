@@ -45,10 +45,17 @@ For showing the relationship between different objects, scenes and attributes we
 
 After implementing our idea and playing around with it, we figured out due to the large number of labels, it is sometimes hard for the user to find a particular label easily and one needs to go through all the labels one by one until he finds a particular label.  
 So we added a search property to our visualization. In the search scenario, the user can search for a particular keyword (which could be name of a scene, object or attribute) and the related labels will be highlighted. Then user can move mouse over label of interest among highlighted labels and see the connected labels to that label. The link of connected labels are highlighted by different color. 
+
+![search sketch](search.png "search sketch")
+
  
 Also, for improving the expressiveness of our visualization, we embedded the thumbnail of the images of different objects, attributes and scenes in a "mouse click" action. In this case, the user can check the visual appearance of his selected label via a "mouse click" action.
 
 ![final sketch](withThumbnail.png "final sketch")
+
+The screenshot of the final implementation is shown below.
+
+![final screenshot](plant_screenshot.png "final screenshot")
 
 
 ## Development Process
