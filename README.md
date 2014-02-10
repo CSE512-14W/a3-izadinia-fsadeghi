@@ -13,7 +13,7 @@ In this project we want to show the relationship between the occurrence of diffe
 
 ## Running Instructions
 
-This is a web-based visualization project and can be opened online at (http://cse512-14w.github.io/a3-izadinia-sadeghi/). 
+This is a web-based visualization project and can be opened online at (http://cse512-14w.github.io/a3-izadinia-fsadeghi/). 
 ** [IMPORTANT] The project looks much nicer in chrome with full screen mode. After you made it full screen then refresh it again. **
 
 Using this link you will open index.html file and run the visualization. We use bundle layout in D3 to show the link between different nominal variables. Here we have three types of variables: 
